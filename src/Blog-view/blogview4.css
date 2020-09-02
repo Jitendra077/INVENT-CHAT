@@ -1,0 +1,225 @@
+.top {
+    margin-left:710px ;
+    margin-top: -3382px;
+}
+
+.How-to-increase-your_ {
+    width: 560px;
+    height: 64px;
+    font-family: Montserrat;
+    font-size: 26px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-left: 40px;
+    margin-right: 140px;
+  }
+
+  .FASHION-Aug-24-20_ {
+    width: 190px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--white-60);
+    color: #9263e3;
+    margin-left: 50px;
+    margin-top: -26px;
+  }
+
+  .txt{
+      color: grey;
+  }
+  
+  .pic1 {
+    width: 560px;
+    height: 300px;
+    object-fit: contain;
+    margin-left: 40px;
+    margin-top: 30px;
+ 
+  }
+
+  .This-is-an-example-o_ {
+    width: 560px;
+    height: 96px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: rgba(255, 255, 255, 0.8);
+    margin-left: 40px;
+    margin-right: 140px;
+
+
+  }
+  .Rectangle_R {
+    width: 160px;
+    height: 50px;
+    border-radius: 25px;
+    border: solid 1.5px #8c5ae9;
+    background: #232427;
+    margin-left: 140px;
+  }
+  .Rectangle_R2 {
+    width: 160px;
+    height: 50px;
+    border-radius: 25px;
+    border: solid 1.5px #8c5ae9;
+    background: #232427;
+    margin-left: 50px;
+  }
+
+
+  /* ----------blogview5--------------------side info ------------------------------------------- */
+
+  .Share {
+    width: 51px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-top: 195px;
+    margin-left: 1040px;
+  }
+ 
+  .fbImg {
+    width: 48px;
+    object-fit: contain;
+    margin-left: 1040px;
+ 
+   
+  }
+  .instaImg {
+    width: 48px;
+    object-fit: contain;
+    margin-left: 1146px;
+    margin-top: -35px;
+    
+    
+  }
+  .twitterImg {
+    width: 48px;
+    margin-left: 1093px;
+    margin-top: -26px;
+       
+  }
+  .Img {
+    width: 48px;
+    margin-left: 1199px;
+   margin-top: -40px; 
+
+  }
+
+  .Email-Newsletter {
+    width: 162px;
+    height: 22px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 1040px;
+    margin-top: 40px;
+  }
+
+  .Subscribe-my-Newslet {
+    width: 260px;
+    height: 48px;
+    opacity: 0.6;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-left: 1040px;
+  }
+  .Rectangle-Copy-23 {
+    width: 260px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #14171a;
+    margin-left: 1040px;
+  }
+  .Your-name {
+    width: 120px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #aeb3bb;
+    margin-top: -32px;
+  }
+  .Rectangle-Copy-23_ {
+    width: 260px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #14171a;
+    margin-left: 1040px;
+    margin-top: 2px;
+  }
+  .Your-email {
+    width: 120px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #aeb3bb;
+    margin-top: -35px;
+    margin-left: 1060px;
+  }
+
+  .subscribeButton {
+    width: 260px;
+    height: 50px;
+    object-fit: contain;
+    border-radius: 25px;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.7), 0 2px 10px 0 rgba(255, 255, 255, 0.1);
+    background-image: linear-gradient(259deg, #875ae9, #b25ae9);
+    margin-left: 1050px;
+    margin-top: 30px;
+  }
+
+  .SUBSCRIBE1 {
+    width: 260px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;     
+  }
+  

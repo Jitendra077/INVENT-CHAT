@@ -1,0 +1,278 @@
+
+
+
+
+/* -------------------------  Background --------------------------------------- */
+
+  .background {
+    width: 1440px;
+    height: 3481px;
+    background-color: #232427;
+   
+  }
+
+
+  /* .................................................................................... */
+
+  .FASHION_L {
+    width: 67px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #9263e3;
+    margin-left: 137px;
+    margin-top: -420px;
+  }
+
+
+  .FASHION {
+    width: 67px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #9263e3;
+    margin-left: 137px;
+    margin-top: -429px;
+  }
+  .FASHION_ {
+    width: 67px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #9263e3;
+    margin-left: 137px;
+    margin-top: 100px;
+  
+  }
+
+
+  .How-to-increase-your_L {
+    width: 860px;
+    height: 37px;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-left: 140px;
+    margin-top: 9px;
+    margin-right: 440px;
+  }
+
+  .date {
+    width: 91px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: whitesmoke;
+    margin-left: 140px;
+  }
+  .greenT {
+   
+        width: 860px;
+        height: 445px;
+        object-fit: contain;
+        margin-left: 140px;
+        margin-top: 30px;
+        margin-right: 440px;
+      }
+
+
+
+  .How-to-increase-your {
+    width: 860px;
+    height: 37px;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-left: 140px;
+    margin-top: 9px;
+    margin-right: 440px;
+  }
+
+  .Rectangle_L {
+    width: 160px;
+    height: 50px;
+    border-radius: 25px;
+    border: solid 1.5px #8c5ae9;
+    margin-left: 140px;
+    margin-top: 25px;
+    background-color: #232427;
+  }
+  
+ /* -----------------------End of BlogList css ----------------------- */
+
+      .Email-Newsletter_ {
+        width: 162px;
+        height: 22px;
+        font-family: Montserrat;
+        font-size: 18px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+        margin-left: 1040px;
+        margin-top: 230px;
+      }
+
+      .Subscribe-my-Newslet {
+        width: 260px;
+        height: 48px;
+        opacity: 0.6;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.71;
+        letter-spacing: normal;
+        color: #ffffff;
+        margin-left: 1040px;
+        margin-right: 140px;
+        margin-top: 14px;
+      }
+      .text{
+        width: 260px;
+        height: 50px;
+        border-radius: 25px;
+        background-color: #14171a;
+        margin-left: 1040px;
+        margin-top: 10px;
+        margin-right: 140px;
+
+      }
+      .text1{
+        width: 260px;
+        height: 50px;
+        border-radius: 25px;
+        background-color: #14171a;
+        margin-left: 1040px;
+        margin-top: 10px;
+        margin-right: 140px;
+      }
+      .Your-name {
+        width: 120px;
+        height: 18px;
+        background-color: #aeb3bb;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #aeb3bb;
+        margin-left: 1060px;
+        margin-top: 18px;
+        margin-bottom: 24px;
+      }
+  
+      .subscribe-button {
+        width: 260px;
+        height: 50px;
+        object-fit: contain;
+        border-radius: 25px;
+        box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.7), 0 2px 10px 0 rgba(255, 255, 255, 0.1);
+        background-image: linear-gradient(259deg, #875ae9, #b25ae9);
+        margin-left: 1050px;
+        margin-right: 140px;
+        margin-top: 10px;
+      }
+      .SUBSCRIBE {
+        width: 260px;
+        height: 18px;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+        margin-top: 17px;
+        margin-bottom: 15px;
+      }
+      .This-is-an-example-o {
+        width: 860px;
+        height: 72px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        color: rgba(255, 255, 255, 0.8);
+        margin-left: 140px;
+        margin-right: 440px;
+      }
+      .Rectangle {
+        width: 160px;
+        height: 50px;
+        border-radius: 25px;
+        border: solid 1.5px #8c5ae9;
+        margin-left: 140px;
+        margin-top: 25px;
+        background-color: #232427;
+      }
+      .Read-more {
+        width: 160px;
+        height: 26px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.63;
+        letter-spacing: normal;
+        text-align: center;
+        color: #945ae9;
+      }
+
+      .How-to-increase {
+        width: 860px;
+        height: 30px;
+        font-family: Montserrat;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        color: #ffffff;
+      }

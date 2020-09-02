@@ -1,0 +1,38 @@
+
+
+.footer {
+    width: 1333px;
+    height: 70px;
+    opacity: 0.1;
+    background-color: grey;
+    margin-top: 92px;
+  }
+
+  .insta {
+      margin-left: 140px;
+      margin-top: 27px;
+      margin-bottom: 23px;
+  }
+  .fb {
+        width: 24px;
+        height: 24px;
+        object-fit: contain;
+        margin-left: 25px;
+        margin-top: 27px;
+        margin-bottom: 23px;
+      }
+      .Contect-Us {
+        width: 78px;
+        height: 24px;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.71;
+        letter-spacing: normal;
+        color: white;
+        margin-left: 830px;
+        margin-top: 23px;
+      }
+

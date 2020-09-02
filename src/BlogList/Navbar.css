@@ -1,0 +1,32 @@
+/* ---------------------------- Navbar ------------------------ */
+
+.Nav_L {
+    width: -120px;
+    height: 100px;
+    box-shadow: inset 0 0 20px 2px #905ae9;
+    background-image: linear-gradient(264deg, rgba(19, 117, 36, 0.15) 100%, rgba(255, 255, 255, 0) 89%), linear-gradient(105deg, rgba(139, 90, 233, 0.51) 48%, #8f5ae9 60%), linear-gradient(142deg, #fcfdfc 44%, #ae92de 54%);
+  }
+
+   
+  .Group-71 {
+    width: 234px;
+    height: 212px;
+    object-fit: contain;
+    margin-left: 40px;
+    margin-top: -60px;
+  }
+  .Blog {
+    width: 212px;
+    height: 26px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: right;
+    color: #ffffff;
+    margin-left: 803px;
+    margin-top: -117px;
+  }
